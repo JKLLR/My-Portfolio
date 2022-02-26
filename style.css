@@ -12,3 +12,11 @@
     filter: brightness(100%);
 
 }
+.cover h1{
+    font-size: 70px;
+    color: black;
+}
+.description p{
+    font-size: 40px;
+    color: black;
+}
