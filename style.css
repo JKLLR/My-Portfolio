@@ -67,16 +67,16 @@ a:hover{
 }
 .passion{
     font-size: 30px;
-    padding:100px;
+    width:1100px;
+    height: 500px;
 
 }
 .passion p{
     display: flex;
 
 }
-.passion h2{
-    float:left;
-
+.likes{
+    width: 1200px;
 }
 .likes p{
     font-size: 30px;
