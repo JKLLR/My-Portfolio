@@ -44,5 +44,47 @@ a:hover{
 }
 .home h1{
     text-align: left;
-    padding-top: 300px;
+    padding-top: 200px;
+}
+.about-me{
+    height:fit-content;
+    background-color: aliceblue;
+    background-image: linear-gradient(to bottom left, blue,orange,pink)
+}
+.about-me h1{
+    font-size: 60px;
+    text-align: center;
+    padding:60px;
+
+}
+.who{
+    font-size: 30px;
+}
+.who p{
+    float: right;
+}
+.passion{
+    font-size: 30px;
+    padding:100px;
+
+}
+.passion p{
+    display: flex;
+
+}
+.passion h2{
+    float:left;
+
+}
+.likes p{
+    font-size: 30px;
+}
+.work{
+    font-size: 30px;
+}
+.contact-box{
+    font-family: 'Poppins' ,sans-serif;
+    margin: 25px;
+    font-size: 20px;
+
 }
