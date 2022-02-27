@@ -18,7 +18,7 @@
 }
 .description p{
     font-size: 30px;
-    color: black;
+    color:maroon
 }
 .main-nav{
     float: right;
@@ -27,16 +27,22 @@
     padding: 15px;
 }
 .description{
-    float:right;
+    text-align: right;
+    padding: 50px;
+
 }
 a{
     font-family: 'Poppins' ,sans-serif;
     margin-left: 15px;
-    color: black;
+    color: darkcyan;
     font-size: 16px;
 
 }
 a:hover{
   color: aqua;
   font-size: 20px;  
+}
+.home h1{
+    text-align: left;
+    padding-top: 300px;
 }
