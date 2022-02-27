@@ -87,6 +87,7 @@ a:hover{
     font-size: 30px;
     padding-left: 50px;
     line-height: 1.2;
+    height: 40vh;
 }
 .contact-box{
     font-family: 'Poppins' ,sans-serif;
@@ -99,6 +100,7 @@ a:hover{
     align-items: center;
     justify-content: space-between;
     font-family: 'Poppins' ,sans-serif;
+    height: 100vh;
 
 }
 img{
