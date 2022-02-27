@@ -46,19 +46,21 @@ a:hover{
     text-align: left;
     padding-top: 200px;
 }
+
 .about-me{
-    height:fit-content;
     background-color: aliceblue;
     background-image: linear-gradient(to bottom left, blue,orange,pink)
 }
 .about-me h1{
     font-size: 60px;
-    text-align: center;
-    padding:60px;
+
+}
+.about-me h2{
 
 }
 .who{
     font-size: 30px;
+    width: 1200px;
 }
 .who p{
     float: right;
@@ -86,5 +88,20 @@ a:hover{
     font-family: 'Poppins' ,sans-serif;
     margin: 25px;
     font-size: 20px;
+
+}
+.flex-container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+img{
+    width: 100%;
+    
+}
+.who img{
+    width: 300px;
+
 
 }
