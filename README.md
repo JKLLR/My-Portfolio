@@ -62,6 +62,5 @@ SOFTWARE.
 
 Email:jefferson.karumba@student.moringaschool.com
 
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
 
 [Go Back to the top](#portfolio)
